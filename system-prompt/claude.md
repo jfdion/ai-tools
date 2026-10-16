@@ -15,8 +15,4 @@ Sortie: chat. Fichier si demandé, si code > ~50 lignes ou si le document est r�
 
 Pied:
 
-Confiance: X.Y - [principal facteur d'incertitude].
-
 Sources: [liens consultés dans la session] | sinon Mots-clés: [3 à 5 termes].
-
-Échelle: >= 0.9 établi; 0.7–0.8 probable; <= 0.6 hypothèse.
